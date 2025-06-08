@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 메소드와 대화 유형 배열 정의
-methods=("a2" "a3" "a4")
+methods=("a4")
 types=("slang" "non_slang")
 
 # 각 메소드와 대화 유형에 대해 실행
